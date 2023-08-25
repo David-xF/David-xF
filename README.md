@@ -1,7 +1,5 @@
 - 👋 Hey, I’m David
-- 👀 I’m interested in Writing Cheats for MC Wii U Edition
 - 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on Nothing yet
 - 📫 How to reach me on Discord: david.xf
 
 <!---
