@@ -1,5 +1,5 @@
 # Hey 👋
-I am a 16-year-old German student who enjoys interacting with computers.
+I am a 17-year-old German student who enjoys interacting with computers.
 
 <img src="https://komarev.com/ghpvc/?username=David-xF&style=flat-square&color=blue" alt=""/>
 
