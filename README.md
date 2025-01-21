@@ -1,8 +1,6 @@
 # Hey 👋
 I am a 18-year-old German student who enjoys interacting with computers.
 
-<img src="https://david-xf.de/assets/image.png" width="40%" alt="David xF"/>
-
 <img src="https://komarev.com/ghpvc/?username=David-xF&style=flat-square&color=blue" alt=""/>
 
 # My Stats 🔥 
